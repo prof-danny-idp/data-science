@@ -248,7 +248,7 @@ year,rank,restaurant,location,country,lat,lng
 2006,47,De Karmeliet,Bruges,Belgium,51.2093707,3.2247548
 2006,48,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
 2006,49,Comme Chez Soi,Brussels,Belgium,50.8476424,4.3571696
-2006,50,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2006,50,D.O.M.,São Paulo,Brasil,-23.5557714,-46.6395571
 2007,1,El Bulli,Roses,Spain,42.2639489,3.1795528
 2007,2,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
 2007,3,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
@@ -286,7 +286,7 @@ year,rank,restaurant,location,country,lat,lng
 2007,35,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
 2007,36,Alinea,Chicago,United States,41.8781136,-87.6297982
 2007,37,Bukhara,New Delhi,India,28.6139298,77.2088282
-2007,38,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2007,38,D.O.M.,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2007,39,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
 2007,40,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
 2007,41,Enoteca Pinchiorri,Florence,Italy,43.7699685,11.2576706
@@ -338,7 +338,7 @@ year,rank,restaurant,location,country,lat,lng
 2008,37,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
 2008,38,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
 2008,39,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
-2008,40,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2008,40,D.O.M.,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2008,41,Daniel,New York,United States,40.7127753,-74.0059728
 2008,42,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
 2008,43,Ristorante Cracco,Milan,Italy,45.468503,9.18240269
@@ -372,7 +372,7 @@ year,rank,restaurant,location,country,lat,lng
 2009,21,Chez Dominique,Copenhagen,Denmark,55.6760968,12.5683371
 2009,22,Ristorante Cracco,Milan,Italy,45.468503,9.18240269
 2009,23,Die Schwarzaldstube,Baiersbronn,Germany,48.5089458,8.3706727
-2009,24,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2009,24,D.O.M.,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2009,25,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
 2009,26,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
 2009,27,Masa,New York,United States,40.7127753,-74.0059728
@@ -416,7 +416,7 @@ year,rank,restaurant,location,country,lat,lng
 2010,15,Le Bernardin,New York,United States,40.7127753,-74.0059728
 2010,16,L'Astrance,Paris,France,48.8575475,2.3513765
 2010,17,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
-2010,18,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2010,18,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2010,19,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
 2010,20,Le Calandre,Rubano,Italy,45.4262382,11.7937858
 2010,21,Steirereck,Vienna,Austria,48.2080695,16.3713095
@@ -455,7 +455,7 @@ year,rank,restaurant,location,country,lat,lng
 2011,4,Osteria Francescana,Modena,Italy,44.647128,10.9252269
 2011,5,The Fat Duck,Bray,United Kingdom,51.50772550,-0.7005884
 2011,6,Alinea,Chicago,United States,41.8781136,-87.6297982
-2011,7,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2011,7,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2011,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
 2011,9,Le Chateaubriand,Paris,France,48.8575475,2.3513765
 2011,10,Per Se,New York,United States,40.7127753,-74.0059728
@@ -502,7 +502,7 @@ year,rank,restaurant,location,country,lat,lng
 2012,1,Noma,Copenhagen,Denmark,55.6760968,12.5683371
 2012,2,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
 2012,3,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
-2012,4,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2012,4,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2012,5,Osteria Francescana,Modena,Italy,44.647128,10.9252269
 2012,6,Per Se,New York,United States,40.7127753,-74.0059728
 2012,7,Alinea,Chicago,United States,41.8781136,-87.6297982
@@ -554,7 +554,7 @@ year,rank,restaurant,location,country,lat,lng
 2013,3,Osteria Francescana,Modena,Italy,44.647128,10.9252269
 2013,4,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
 2013,5,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
-2013,6,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2013,6,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2013,7,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
 2013,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
 2013,9,Steirereck,Vienna,Austria,48.2080695,16.3713095
@@ -594,7 +594,7 @@ year,rank,restaurant,location,country,lat,lng
 2013,43,Mr and Mrs Bund,Shanghai,China,31.230416,121.473701
 2013,44,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
 2013,45,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
-2013,46,Maní,São Paulo,Brazil,-23.5557714,-46.6395571
+2013,46,Maní,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2013,47,The French Laundry,Yountville,United States,38.4015780,-122.3608105
 2013,48,Quay,Sydney,Australia,-33.8688197,151.2092955
 2013,49,Septime,Paris,France,48.8575475,2.3513765
@@ -605,7 +605,7 @@ year,rank,restaurant,location,country,lat,lng
 2014,4,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
 2014,5,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
 2014,6,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
-2014,7,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2014,7,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2014,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
 2014,9,Alinea,Chicago,United States,41.8781136,-87.6297982
 2014,10,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
@@ -634,7 +634,7 @@ year,rank,restaurant,location,country,lat,lng
 2014,33,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
 2014,34,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
 2014,35,Martín Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
-2014,36,Maní,São Paulo,Brazil,-23.5557714,-46.6395571
+2014,36,Maní,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2014,37,Restaurant André,Singapore,Singapore,1.352083,103.819836
 2014,38,L'Astrance,Paris,France,48.8575475,2.3513765
 2014,39,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
@@ -657,7 +657,7 @@ year,rank,restaurant,location,country,lat,lng
 2015,6,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
 2015,7,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
 2015,8,Narisawa,Tokyo,Japan,35.6764225,139.650027
-2015,9,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2015,9,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2015,10,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
 2015,11,Mirazur,Menton,France,43.774481,7.497540000
 2015,12,Arpège,Paris,France,48.8575475,2.3513765
@@ -689,7 +689,7 @@ year,rank,restaurant,location,country,lat,lng
 2015,38,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
 2015,39,Quique Dacosta,Denia,Spain,38.8387992,0.1050557
 2015,40,Per Se,New York,United States,40.7127753,-74.0059728
-2015,41,Maní,São Paulo,Brazil,-23.5557714,-46.6395571
+2015,41,Maní,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2015,42,Boragó,Santiago,Chile,-33.4488897,-70.6692655
 2015,43,Tickets,Barcelona,Spain,41.3873974,2.168568
 2015,44,Maido,Lima,Peru,-12.0466888,-77.0430885
@@ -709,7 +709,7 @@ year,rank,restaurant,location,country,lat,lng
 2016,8,Narisawa,Tokyo,Japan,35.6764225,139.650027
 2016,9,Steirereck,Vienna,Austria,48.2080695,16.3713095
 2016,10,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
-2016,11,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2016,11,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2016,12,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
 2016,13,Maido,Lima,Peru,-12.0466888,-77.0430885
 2016,14,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
@@ -764,7 +764,7 @@ year,rank,restaurant,location,country,lat,lng
 2017,13,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
 2017,14,Restaurant André,Singapore,Singapore,1.352083,103.819836
 2017,15,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
-2017,16,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2017,16,D.O.M.,Sao Paulo,Bra_zil,-23.5557714,-46.6395571
 2017,17,Le Bernardin,New York,United States,40.7127753,-74.0059728
 2017,18,Narisawa,Tokyo,Japan,35.6764225,139.650027
 2017,19,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
@@ -828,7 +828,7 @@ year,rank,restaurant,location,country,lat,lng
 2018,27,Boragó,Santiago,Chile,-33.4488897,-70.6692655
 2018,28,Odette,Singapore,Singapore,1.352083,103.819836
 2018,29,Alléno Paris au Pavillon Ledoyen,Paris,France,48.8575475,2.3513765
-2018,30,D.O.M,São Paulo,Brazil,-23.5557714,-46.6395571
+2018,30,D.O.M,São Paulo,Bra_zil,-23.5557714,-46.6395571
 2018,31,Arzak,San Sebastian,Spain,43.318237,-1.9817051
 2018,32,Tickets,Barcelona,Spain,41.3873974,2.168568
 2018,33,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
@@ -887,7 +887,7 @@ year,rank,restaurant,location,country,lat,lng
 2019,36,Le Bernardin,New York,United States,40.7127753,-74.0059728
 2019,37,Alinea,Chicago,United States,41.8781136,-87.6297982
 2019,38,Hiša Franko,Kobarid,Slovenia,46.2476549,13.5791749
-2019,39,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2019,39,A Casa do Porco,São Paulo,Bra _ zil,-23.5557714,-46.6395571
 2019,40,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
 2019,41,The Chairman,Hong Kong,Hong Kong,22.3193039,114.1693611
 2019,42,Belcanto,Lisbon,Portugal,38.7222524,-9.1393366
@@ -915,7 +915,7 @@ year,rank,restaurant,location,country,lat,lng
 2021,14,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
 2021,15,Lido 84,Gardone Riviera,Italy,45.623397,10.5636497
 2021,16,Elkano,Getaria,Spain,43.3077339,-2.2021494
-2021,17,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2021,17,A Casa do Porco,São Paulo,Bra _ zil,-23.5557714,-46.6395571
 2021,18,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
 2021,19,Narisawa,Tokyo,Japan,35.6764225,139.650027
 2021,20,DiverXO,Madrid,Spain,40.41672790,-3.7032905
@@ -955,7 +955,7 @@ year,rank,restaurant,location,country,lat,lng
 2022,4,Diverxo,Madrid,Spain,40.41672790,-3.7032905
 2022,5,Pujol,Mexico City,Mexico,19.4326077,-99.133208
 2022,6,Asador Etxebarri,Atxondo,Spain,43.131605,-2.5832703
-2022,7,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2022,7,A Casa do Porco,São Paulo,Bra _ zil,-23.5557714,-46.6395571
 2022,8,Lido 84,Gardone Riviera,Italy,45.623397,10.5636497
 2022,9,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
 2022,10,Le Calandre,Rubano,Italy,45.4262382,11.7937858
@@ -995,7 +995,7 @@ year,rank,restaurant,location,country,lat,lng
 2022,44,Le Bernardin,New York,United States,40.7127753,-74.0059728
 2022,45,Narisawa,Tokyo,Japan,35.6764225,139.650027
 2022,46,Belcanto,Lisbon,Portugal,38.7222524,-9.1393366
-2022,47,Oteque,Rio de Janeiro,Brazil,-22.9068467,-43.1728965
+2022,47,Oteque,Rio de Janeiro,Bra_zil,-22.9068467,-43.1728965
 2022,48,Leo,Bogotá,Colombia,4.71098859,-74.072092
 2022,49,Ikoyi,London,United Kingdom,51.5072178,-0.1275862
 2022,50,SingleThread,Healdsburg,United States,38.6081693,-122.8700509
@@ -1010,7 +1010,7 @@ year,rank,restaurant,location,country,lat,lng
 2023,9,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
 2023,10,Table by Bruno Verjus,Paris,France,48.8575475,2.3513765
 2023,11,Trèsind Studio,Dubai ,United Arab Emirates,25.2048493,55.2707828
-2023,12,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2023,12,A Casa do Porco,São Paulo,Bra _ zil,-23.5557714,-46.6395571
 2023,13,Pujol,Mexico City,Mexico,19.4326077,-99.133208
 2023,14,Odette,Singapore,Singapore,1.352083,103.819836
 2023,15,Le Du,Bangkok,Thailand,13.7563309,100.5017651
